@@ -23,7 +23,6 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Cypress](https://www.cypress.io) - E2E testing for JavaScript through a browser.
 * [Endtest](https://endtest.io) - Cloud-based codeless automated testing.
 * [Erik](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
-* [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper for a stealth-patched Firefox 150, drop-in replacement returning native Playwright Browser objects.
 * [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid) - A solution to kick-start test automation for small companies & start-ups.
 * [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
 * [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
@@ -31,6 +30,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [PhantomBuster](https://phantombuster.com) - Automate web scraping and actions without coding.
 * [PhantomJS](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
 * [Playwright](https://github.com/microsoft/playwright) - Cross-browser web automation platform for Node.js.
+  * [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Drop-in Playwright wrapper that launches a stealth-patched Firefox 150 binary instead of vanilla Firefox; returns native Playwright Browser objects.
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
   * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
   * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including reCAPTCHA and adblocker.
